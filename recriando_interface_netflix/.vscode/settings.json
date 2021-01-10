@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.host": "127.0.1.1",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.https": {
+        "enable": true
+    }
+}
